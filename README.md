@@ -11,7 +11,7 @@ Using https://github.com/tsl0922/ttyd with Husarnet VPN
     docker compose up
     ```
 
-3. Open in your webbrowser: http://localhost:7681/
+3. Open in your webbrowser: http://localhost:8080/
 
     Now you can ping other Husarnet hosts by using their Husarnet IPv6 address or just their hostname.
 
